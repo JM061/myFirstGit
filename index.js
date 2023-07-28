@@ -1,4 +1,4 @@
-console.log("Hello World");
+console.log("Merge Conflict");
 
 console.log(sum(5,6));
 
