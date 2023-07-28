@@ -1,11 +1,11 @@
 # **Workshop 2 For 3813ICT**
 ## Question 2 for workshop
 
-#Install Instructions
+##Install Instructions
 1. clone repository ("git clone https://github.com/JM061/myFirstGit.git")
 2. npm install 
 
-#Instructions to Run
+##Instructions to Run
 1. node index.js
 
 Week Number | Weeks Content
