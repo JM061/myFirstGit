@@ -13,7 +13,7 @@ Week Number | Weeks Content
  1 | Introduction to Javascript and Nodejs
  2 | Code version control using Github and Git
  3 | NodeJs as a Server
- 4 | Angualar
+ 4 | Angular
  5 | Data Persistance, Services and HTTP requests to a Server
  6 | Reactive Programming and Socekts
  7 | Assignment Phase
