@@ -1,9 +1,9 @@
 console.log("Merge Conflict");
 
-console.log(sum(5,6));
+console.log(sum(5,6, 10));
 
 
-function sum(a,b){
-	return a+b
+function sum(a,b, c){
+	return a+b+c
 
 }
